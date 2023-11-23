@@ -81,13 +81,6 @@
             android:backgroundTint="#FF9800"
             android:text="Đăng nhập" />
         <Button
-            android:layout_marginRight="20dp"
-            android:layout_width="120dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:backgroundTint="#FF9800"
-            android:text="Đăng nhập" />
-        <Button
             android:id="@+id/btnDangKyDn"
             android:layout_width="120dp"
             android:backgroundTint="#2196F3"
